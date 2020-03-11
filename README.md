@@ -24,4 +24,4 @@ Atom
 If you run into any problems, you can send me an email at allenbosire@gmail.com and I'll take a look. 
 
 ### License
-My Imaginary Pet is [MIT Licensed](/Desktop/my-imaginary-pet/LICENSE.txt)
+My Imaginary Pet is [MIT Licensed](https://github.com/iAllan/my-imaginary-pet/blob/master/LICENSE.txt)
